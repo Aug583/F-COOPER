@@ -5,7 +5,7 @@ The code and dataset will come soon.
 
 ## Citation
 
-If you use related work, dplase cite our papers:
+If you use related work, please cite our papers:
 
 
 @misc{1905.05265,
