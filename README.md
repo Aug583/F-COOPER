@@ -8,16 +8,11 @@ The code and dataset will come soon.
 If you use related work, please cite our papers:
 
 
-@misc{1905.05265,
-
-  Author = {Qi Chen and Sihai Tang and Qing Yang and Song Fu},
-  
-  Title = {Cooper: Cooperative Perception for Connected Autonomous Vehicles based on 3D Point Clouds},
-  
-  Year = {2019},
-  
-  Eprint = {arXiv:1905.05265},
-  
-}
+  @misc{1905.05265,
+    Author = {Qi Chen and Sihai Tang and Qing Yang and Song Fu},
+    Title = {Cooper: Cooperative Perception for Connected Autonomous Vehicles based on 3D Point Clouds},
+    Year = {2019},
+    Eprint = {arXiv:1905.05265},
+  }
 
 
