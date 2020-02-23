@@ -26,7 +26,7 @@ export NUMBAPRO_NVVM=/usr/local/cuda/nvvm/lib64/libnvvm.so
 export NUMBAPRO_LIBDEVICE=/usr/local/cuda/nvvm/libdevice
 ```
 
-Add  ~/F-COOPER path to PYTHONPATH
+Add  ~/F-COOPER/  to PYTHONPATH
 
 
 ## Prepare dataset
@@ -71,6 +71,7 @@ python create_data.py create_groundtruth_database --data_path=KITTI_DATASET_ROOT
 * Download T&J dataset
 
 Tom and Jerry Dataset (in our COOPER and F-COOPER papers) [T&J](https://drive.google.com/file/d/1xmQppUjvaGHbNOTkB_pwVy2HN85I-YHF/view?usp=sharing) to overwrite LiDAR frames in velodyne and velodyne_reduced folders
+
 Modify the data information in ~/F-COOPER/COOPER/data/ImageSets/.
 
 * Modify config file
