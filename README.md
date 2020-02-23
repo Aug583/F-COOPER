@@ -72,7 +72,7 @@ python create_data.py create_groundtruth_database --data_path=KITTI_DATASET_ROOT
 
 Tom and Jerry Dataset (in our COOPER and F-COOPER papers) [T&J](https://drive.google.com/file/d/1xmQppUjvaGHbNOTkB_pwVy2HN85I-YHF/view?usp=sharing) to overwrite LiDAR frames in velodyne and velodyne_reduced folders
 
-Modify the data information in ~/F-COOPER/COOPER/data/ImageSets/.
+Modify the data information in ~/F-COOPER/COOPER/data/ImageSets/
 
 * Modify config file
 ```bash
